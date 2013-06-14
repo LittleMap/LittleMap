@@ -1,0 +1,22 @@
+{
+    "version": "0.1",
+    "name": "Little Map",
+    "description": "Des plans simples accessibles à tous",
+    "launch_path": "/index.html",
+    "icons": {
+        "32":  "/favicon.gif",
+        "128": "/logo128.png"
+    },
+    "developer": {
+        "name": "LittleMap team",
+        "url": "http://www.Lmap.org"
+    },
+    "installs_allowed_from": ["*"],
+    "locales": {
+        "en": {
+            "description": "Simple maps to be readable by everyone"
+        }
+    },
+    "default_locale": "fr"
+}
+

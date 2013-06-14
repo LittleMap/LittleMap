@@ -1,0 +1,96 @@
+body { margin: 0;  font-family: sans-serif; }
+
+.right {
+	z-index:-1;
+	position:absolute; 
+	left: 25em;
+/*
+	float: left;
+	margin-left: 2em;
+	*/
+}
+
+@media (max-width: 480px) {
+    body {
+         font-size: 110%;
+    }
+    button {
+         font-size: 100%;
+    }
+    .right { display: none; 
+    }
+}
+
+img  { border: 0; }
+
+#header {
+    color: white;
+    background: none repeat scroll 0 0 #006;
+    width: 100%;
+    top:  0;
+    left: 0;
+    padding: 1em;
+    padding-left: 2em;
+    box-shadow: 0px 5px 5px #888;
+    background: linear-gradient(to bottom, #007 0%, #113 70%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000', endColorstr='#555',GradientType=0 );
+}
+
+#header h1 img {
+	float: left;
+	margin-right: 1em;
+}
+
+#menu * {
+    padding: 0;
+    margin: 0;
+    display: inline;
+    list-style: none outside none;
+    margin-right: 2em;
+}
+
+#header a {
+    color: #FFF;
+    text-decoration: none;
+    outline: medium none;
+    white-space: nowrap;
+}
+
+#menu a {
+    color: #DDD;
+    font-size: 1.5em;
+}
+
+#header .LM {
+      text-shadow: -0.3em  0px      1em #886, 
+                    0.3em  0px      1em #886, 
+                   -0.4em -0.1em  0.5em #886, 
+                    0.4em  0.1em  0.5em #886, 
+                   -0.5em  0.1em  0.5em #886, 
+                    0.5em -0.1em  0.5em #886;
+      padding: 0;
+      margin:  0;
+}
+
+#header a:hover,     #header a:active,     #header a:focus, 
+#header a:hover .LM, #header a:active .LM, #header a:focus .LM {
+    color: #FFF;
+    text-decoration: underline;
+    text-shadow: -1.7em 0px 1em #5ff, 
+                  1.7em 0px 1em #5ff, 
+                 -1.0em 0px 2em #5ff, 
+                  1.0em 0px 2em #5ff, 
+                  0.7em 0px 3em #5ff, 
+                 -0.7em 0px 3em #5ff;
+}
+
+
+.left {
+	margin: 2em;  
+}
+
+.LM { word-spacing: -0.2em; 
+      white-space: nowrap;
+}
+
+
