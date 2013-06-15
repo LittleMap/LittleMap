@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="137" height="137" id="svg2">
+  <title id="title4">Cool smiley</title>
+  <metadata id="metadata18">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path d="m 32.18682,97.71674 q 36.3159,24.94076 72.54585,0 M 40.05725,48.46098 c 0,-3.8554 3.12526,-6.98079 6.98068,-6.98079 3.85449,0 6.97872,3.12539 6.97872,6.98079 0,3.85346 -3.12423,6.97867 -6.97872,6.97867 -3.85542,0 -6.98068,-3.12521 -6.98068,-6.97867 m 42.93047,0 c 0,-3.8554 3.12529,-6.98079 6.97963,-6.98079 3.8544,0 6.97971,3.12539 6.97971,6.98079 0,3.85346 -3.12531,6.97867 -6.97971,6.97867 -3.85434,0 -6.97963,-3.12521 -6.97963,-6.97867 m -81.48596,20.036 0,0 c 0,-37.00197 29.99679,-66.99892 67.00095,-66.99892 37.00303,0 66.99998,29.99695 66.99998,66.99892 0,37.00409 -29.99695,67.00101 -66.99998,67.00101 -37.00416,0 -67.00095,-29.99692 -67.00095,-67.00101 z m 0,0 0,0 c 0,-37.00197 29.99679,-66.99892 67.00095,-66.99892 37.00303,0 66.99998,29.99695 66.99998,66.99892 0,37.00409 -29.99695,67.00101 -66.99998,67.00101 -37.00416,0 -67.00095,-29.99692 -67.00095,-67.00101 z" inkscape:connector-curvature="0" id="svg_1" style="fill:url(#svg_4);stroke:#000000;stroke-width:3" />
+  <path d="m 23.84005,41.03445 17.57052,0 5.42937,-19.67914 5.42941,19.67914 17.5706,0 L 55.62507,53.19687 61.05489,72.87626 46.83994,60.71345 32.62505,72.87626 38.05496,53.19687 23.84005,41.03445 l 0,0 z" inkscape:connector-curvature="0" id="svg_5" style="fill:#000000;stroke-width:3" />
+  <path d="m 65.84005,41.03445 17.57052,0 5.42937,-19.67914 5.42941,19.67914 17.5706,0 -14.21487,12.16242 5.42982,19.67939 -14.21496,-12.1628 -14.2149,12.1628 5.42992,-19.67939 -14.21491,-12.16242 0,0 z" inkscape:connector-curvature="0" id="svg_6" style="fill:#000000;stroke-width:3" />
+  <defs id="defs9">
+    <linearGradient x1="0.44531" y1="0.94922" x2="0.46483999" y2="0.25391001" id="svg_4">
+      <stop id="stop12" style="stop-color:#ff0000;stop-opacity:1" offset="0" />
+      <stop id="stop14" style="stop-color:#ffff00;stop-opacity:1" offset="1" />
+    </linearGradient>
+  </defs>
+</svg>
