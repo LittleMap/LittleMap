@@ -47,7 +47,7 @@
     </rdf:RDF>
   </metadata>
   <g id="layer1">
-    <path d="m 19.125,16 a 16.875,5.625 0 1 1 -33.75,0 16.875,5.625 0 1 1 33.75,0 z" transform="matrix(0.503704,0,0,0.349014,9.366667,12.45257)" id="path2193" style="opacity:0.6;color:#000000;fill:url(#radialGradient3947);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:block;overflow:visible" />
+    <path d="m 19.125,16 a 16.875,5.625 0 1 1 -33.75,0 16.875,5.625 0 1 1 33.75,0 z" inkscape:connector-curvature="0" transform="matrix(0.503704,0,0,0.349014,9.366667,12.45257)" id="path2193" style="opacity:0.6;color:#000000;fill:url(#radialGradient3947);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;visibility:visible;display:block;overflow:visible" />
     <path d="m 10.376363,3.6237647 8.06297,5.9584575 -2.795091,8.9210758 -10.2508703,0 -2.8239595,-8.9218613 7.8069508,-5.957672 z" inkscape:connector-curvature="0" id="path1661" style="fill:url(#linearGradient2405);fill-opacity:1;fill-rule:evenodd;stroke:#888a85;stroke-width:1.00000024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path d="M 10.383801,4.6223366 17.428917,9.8682235 14.894231,17.50214 6.1335005,17.494329 3.6135882,9.9131875 10.383801,4.6223366 z" inkscape:connector-curvature="0" id="path2401" style="fill:url(#linearGradient2403);fill-opacity:1;fill-rule:evenodd;stroke:#fdfdfb;stroke-width:0.99999976px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>

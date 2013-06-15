@@ -19,7 +19,7 @@
           <stop id="stop12" style="stop-color:#666666;stop-opacity:1" offset="1" />
         </linearGradient>
       </defs>
-      <polygon points="0.577744,10.0516 6.09251,0.5 17.1217,0.5 22.6365,10.0516 17.1217,19.6032 6.09251,19.6032 " id="polygon14" style="fill:url(#svg_i22);stroke:#000000" />
+      <polygon points="6.09251,0.5 17.1217,0.5 22.6365,10.0516 17.1217,19.6032 6.09251,19.6032 0.577744,10.0516 " id="polygon14" style="fill:url(#svg_i22);stroke:#000000" />
     </svg>
   </g>
   <g id="svg_eof" />

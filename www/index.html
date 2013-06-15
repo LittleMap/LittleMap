@@ -1,95 +1,76 @@
 <!doctype html>
 <html>
+  <head>
+    <title>Little Map</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="css/color.css" />
+    <link rel="icon" type="image/gif" href="img/favicon.gif" />
+  </head>
 
-<head>
-  <title>Little Map</title>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <link rel="stylesheet" type="text/css" href="color.css" />
-  <link rel="icon" type="image/gif" href="favicon.gif" />
-  <style type="text/css"> body { background-color: #f0f2ef; } </style>
-</head>
+  <body lang="fr">
+    <header>
+      <h1 class="LM"><img alt="logo" src="img/logo.gif" width="70">Little Map</h1>
+      <ul class="menu">
+        <li><i>Des plans simples accessibles à tous.</i></li>
+        <li><a href="/doku/doku.php" title="Plus d'informations">Le projet</a></li>
+        <li><a href="plans.html" title="Rechercher un plan">Les plans</a></li>
+        <li><a href="/doku/doku.php" title="Créer ou Modifier un plan">Contribuer</a></li>
+      </ul>
+    </header>
 
-<body lang="fr">
-
-<div id="header">
-    <h1 class="LM"><img alt="logo" src="logo.gif" width="70">Little Map</h1>
-    <ul id="menu">
-      <li><i>Des plans simples accessibles à tous.</i></li>
-      <li><a href="/doku/doku.php" title="Plus d'informations">        Le projet</a></li> 
-      <li><a href="plans.html"     title="Rechercher un plan">         Les plans</a></li> 
-      <li><a href="/doku/doku.php" title="Créer ou Modifier un plan">  Contribuer</a></li> 
+    <img class="right" type="data:image/svg+xml"
+         src="./plans/fr-75005-lemoine/fr-75005-lemoine.svg"
+         alt="Exemple d'un plan simple qui représente le croisement des rues Monge et Cardinal Lemoine dans le cinquième arrondissement de Paris"/>
+    <article class="left">
+    <p>  Ce site a pour vocation d'aider <br>
+    la réalisation de plans&nbsp;:
+    <ul>
+      <li>de son quartier         </li>
+      <li>de sa station de métro  </li>
+      <li>de son bureau de poste  </li>
+      <li>etc...                  </li>
     </ul>
-</div>
+    </p>
+    </article>
+    <br>
+    <article class="left">
+    <p>
+    <!--Les plans affichent seulement l'essentiel
+    et donc se lisent facilement.-->
+    Les plans ont comme particularité<br>
+    d'aller à l'essentiel et donc<br>
+    se lisent plus facilement.<br>
+    <!--La particularité des plans <span class="LM">Little Map</span>
+    est de représenter que l'essentiel afin de faciliter leur compréhension. -->
+    </p>
+    </article>
+    <article class="left">
+    <p>Ainsi, les plans <span class=LM>Little Map</span> sont<br>
+    accessibles au plus grand nombre<br>
+    comme aux déficients visuels.</p>
+    <br>
+    
+    <ul>
+      <p>Bienvenue sur <span class=LM>Little Map</span>&nbsp;:</p>
+      <li>
+        <a href="/doku/doku.php"
+        title="Plus d'informations">en savoir plus sur le projet<span class=LM>Little Map</span></a>
+      </li>
+      <li>
+        <a href="plans.html"
+        title="Rechercher un plan">parcourir les plans déjà réalisés</a>
+      </li>
+      <li>
+        <a href="/doku/doku.php"
+        title="Créer ou Modifier un plan">apprendre à dessiner un plan</a>
+      </li>
+    </ul>
+    
+    </article>
+    <footer>
+      <button class="installbtn"> Installer l'application <span class=LM>Little Map</span></button>
+    </footer>
 
-<div class="right">
-    <img src="exemple-plan-simple.jpg" alt="Exemple d'un plan simple qui représente le croisement des rues Monge et Cardinal Lemoine dans le cinquième arrondissement de Paris" />
-</div>
-	
-
-<div class="left">
-  <p>  Ce site a pour vocation d'aider <br> 
-       la réalisation de plans&nbsp;:
-       <ul>
-         <li>de son quartier         </li>
-         <li>de sa station de métro  </li>
-         <li>de son bureau de poste  </li>
-         <li>etc...                  </li>
-       </ul>
-  </p>
-  <br>
-  <p>  
-   <!--Les plans affichent seulement l'essentiel et donc se lisent facilement.-->
-       Les plans ont comme particularité      <br>
-       d'aller à l'essentiel et donc          <br> 
-       se lisent plus facilement.             <br>
-   <!--La particularité des plans <span class="LM">Little Map</span> est de représenter que l'essentiel afin de faciliter leur compréhension. -->
-  </p>
-  <p>  Ainsi, les plans <span class=LM>Little Map</span> sont  <br> 
-       accessibles au plus grand nombre                       <br>
-       comme aux déficients visuels.
-  </p>
-  <br>
-  <p> Bienvenue sur <span class=LM>Little Map</span>&nbsp;:
-  <ul>
-      <li><a href="/doku/doku.php" title="Plus d'informations">        en savoir plus sur le projet <span class=LM>Little Map</span></a></li> 
-      <li><a href="plans.html"     title="Rechercher un plan">         parcourir les plans déjà réalisés</a></li> 
-      <li><a href="/doku/doku.php" title="Créer ou Modifier un plan">  apprendre à dessiner un plan</a></li> 
-  </ul></p>
-  
-  <br>
-  <br>
-  <br>
-  <br>
-  <span id="installspan">
-    <button id="install"> Installer l'application <span class=LM>Little Map</span> </button>
-  </span>
-</div>
-
-
-<script>
-(function(){
-  function install(ev) {
-    ev.preventDefault();
-    // define the manifest URL
-    var manifest_url = "http://www.lmap.org/manifest.webapp";
-    // install the app
-    var myapp = navigator.mozApps.install(manifest_url);
-    myapp.onsuccess = function(data) {
-      document.getElementById("installspan").innerHTML = "L'application <span class=LM>Little Map</span> vient d'être installée."; 
-    };
-    myapp.onerror = function() {
-	  if (this.error.name === "REINSTALL_FORBIDDEN")
-	  {
-		 document.getElementById("installspan").innerHTML = "L'application <span class=LM>Little Map</span> est déjà installée.<br> Pour la désinstaller, aller dans <a href='about:apps'>about:apps</a>"; 
-      }
-      else
-      {
-         alert("Impossible d'installer LittleMap sur cet ordinateur, erreur: " + this.error.name);
-      }
-     };
-  };
-  // get a reference to the button and call install() on click
-  var button = document.getElementById('install');
-  button.addEventListener('click', install, false);
-})();
-</script>
+    <script type="text/javascript" src="js/installbtn.js"></script>
+  </body>
+</html>
