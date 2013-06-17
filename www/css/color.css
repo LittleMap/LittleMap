@@ -3,11 +3,12 @@ body {
   font-family:sans-serif;
   background-color: #f0f2ef; 
 }
+img  { border: 0; }
 
 .right {
 	z-index:-1;
 	position:absolute; 
-	left: 25em;
+	left: 22em;
 /*
 	float: left;
 	margin-left: 2em;
@@ -15,18 +16,18 @@ body {
 }
 
 @media (max-width: 480px) {
+ /*
   body {
    font-size: 110%;
  }
  button {
    font-size: 100%;
  }
+ */
  .right { 
   display: none; 
  }
 }
-
-img  { border: 0; }
 
 header {
   color: white;
@@ -67,12 +68,13 @@ header a {
 }
 
 header .LM {
-  text-shadow: -0.3em  0px      1em #886, 
-  0.3em  0px      1em #886, 
+  text-shadow: 
+  -0.3em  0px      1em #886, 
+   0.3em  0px      1em #886, 
   -0.4em -0.1em  0.5em #886, 
-  0.4em  0.1em  0.5em #886, 
+   0.4em  0.1em  0.5em #886, 
   -0.5em  0.1em  0.5em #886, 
-  0.5em -0.1em  0.5em #886;
+   0.5em -0.1em  0.5em #886;
   padding: 0;
   margin:  0;
 }
@@ -81,11 +83,12 @@ header a:hover,     header a:active,     header a:focus,
 header a:hover .LM, header a:active .LM, header a:focus .LM {
   color: #FFF;
   text-decoration: underline;
-  text-shadow: -1.7em 0px 1em #5ff, 
-  1.7em 0px 1em #5ff, 
+  text-shadow: 
+  -1.7em 0px 1em #5ff, 
+   1.7em 0px 1em #5ff, 
   -1.0em 0px 2em #5ff, 
-  1.0em 0px 2em #5ff, 
-  0.7em 0px 3em #5ff, 
+   1.0em 0px 2em #5ff, 
+   0.7em 0px 3em #5ff, 
   -0.7em 0px 3em #5ff;
 }
 
@@ -95,4 +98,12 @@ header a:hover .LM, header a:active .LM, header a:focus .LM {
 
 .LM { word-spacing: -0.2em; 
   white-space: nowrap;
+}
+
+.puce ul{
+  margin-top: 0; 
+}
+
+.puce p { 
+  margin-bottom: 0;
 }
