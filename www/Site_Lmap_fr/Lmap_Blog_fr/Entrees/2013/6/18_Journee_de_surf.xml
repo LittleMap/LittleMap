@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="032C1E34-46D7-4DD5-BC02-106C3045999E">
+  <lastEdited clientType="local-build-20130619" date="2013-06-19 06:11:30 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Cr&#xE9;er un plan pour d&#xE9;ficient visuel ?</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Il faut commencer par conna&#xEE;tre l&#x2019;adresse ou le lieu de la destination. Prenons l&#x2019;exemple du la station de m&#xE9;tro Cardinal Lemoine &#xE0; Paris dans le 5e arrondissement. Les entr&#xE9;es de la station se trouvent au carrefour de la rue Cardinal Lemoine et de la rue Monge. Si l&#x2019;on veut faire le plan de ce lieu pour une personne malvoyante, on commence par faire des recherches sur internet en allant sur les sites de cartographies (Google Maps, Bing Maps, OSM) pour comprendre l&#x2019;organisation du lieu. Je fais des copies d&#x2019;&#xE9;cran &#xE0; chaque fois que je fais une recherche.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;mardi 18 juin 2013&lt;/b&gt;</richText>
+  </textBox>
+</content>

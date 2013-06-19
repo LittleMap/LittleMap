@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Lmap Blog fr</title>
+    <link>http://www.lmap.org/b/Site_Lmap_fr/Lmap_Blog_fr</link>
+    <description></description>
+    <item>
+      <title>Journ&#xE9;e de surf</title>
+      <link>http://www.lmap.org/b/Site_Lmap_fr/Lmap_Blog_fr/Entrees/2013/6/18_Entree_1.html</link>
+      <guid isPermaLink="false">f0d63899-7042-4f6e-b249-e20b30b27251</guid>
+      <pubDate>Tue, 18 Jun 2013 22:57:33 +0200</pubDate>
+      <description>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce &#x2028;a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, &#x2028;nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoreet.</description>
+      <iweb:comment enabled="0" count="0" link="http://www.lmap.org/b/Site_Lmap_fr/Lmap_Blog_fr/Entrees/2013/6/18_Entree_1.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Cr&#xE9;er un plan pour d&#xE9;ficient visuel ?</title>
+      <link>http://www.lmap.org/b/Site_Lmap_fr/Lmap_Blog_fr/Entrees/2013/6/18_Journee_de_surf.html</link>
+      <guid isPermaLink="false">e34d3659-019a-45bc-827d-c3c1c575d07c</guid>
+      <pubDate>Tue, 18 Jun 2013 17:39:00 +0200</pubDate>
+      <description>Il faut commencer par conna&#xEE;tre l&#x2019;adresse ou le lieu de la destination. Prenons l&#x2019;exemple du la station de m&#xE9;tro Cardinal Lemoine &#xE0; Paris dans le 5e arrondissement. Les entr&#xE9;es de la station se trouvent au carrefour de la rue Cardinal Lemoine et de la rue Monge. Si l&#x2019;on veut faire le plan de ce lieu pour une personne malvoyante, on commence par faire des recherches sur internet en allant sur les sites de cartographies (Google Maps, Bing Maps, OSM) pour comprendre l&#x2019;organisation du lieu. Je fais des copies d&#x2019;&#xE9;cran &#xE0; chaque fois que je fais une recherche.</description>
+      <iweb:comment enabled="0" count="0" link="http://www.lmap.org/b/Site_Lmap_fr/Lmap_Blog_fr/Entrees/2013/6/18_Journee_de_surf.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE d MMMM y</iweb:dateFormat>
+    <iweb:baseURL>http://www.lmap.org/b/Site_Lmap_fr/Lmap_Blog_fr</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

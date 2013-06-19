@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:2E7C3D22-C558-4EB2-87D6-B2BBFAC5E3B2</id>
+ <title>Page list Atom feed</title>
+ <updated>2013-06-17T16:42:54+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:779EA31C-0C92-4EEC-9838-CFDBFFB53324</id>
+  <title>Lmap Accueil blanc</title>
+  <title xmlns="urn:iweb:">Lmap Accueil blanc</title>
+  <in-navbar xmlns="urn:iweb:">779EA31C-0C92-4EEC-9838-CFDBFFB53324</in-navbar>
+  <link rel="alternate" href="Lmap_Accueil_blanc.html"/>
+  <updated>2013-06-17T16:42:54.001+02:00</updated>
+  <content>Lmap Accueil blanc</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3530955A-3831-4467-8977-ECD777B0520F</id>
+  <title>Lmap Consulter blanc</title>
+  <title xmlns="urn:iweb:">Lmap Consulter blanc</title>
+  <in-navbar xmlns="urn:iweb:">3530955A-3831-4467-8977-ECD777B0520F</in-navbar>
+  <link rel="alternate" href="Lmap_Consulter_blanc.html"/>
+  <updated>2013-06-17T16:42:54.002+02:00</updated>
+  <content>Lmap Consulter blanc</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:47FD75A1-F346-48B3-9CB9-9F0BDB26FEEE</id>
+  <title>Lmap Quartier Rivoli blanc</title>
+  <title xmlns="urn:iweb:">Lmap Quartier Rivoli blanc</title>
+  <in-navbar xmlns="urn:iweb:">47FD75A1-F346-48B3-9CB9-9F0BDB26FEEE</in-navbar>
+  <link rel="alternate" href="Lmap_Quartier_Rivoli_blanc.html"/>
+  <updated>2013-06-17T16:42:54.003+02:00</updated>
+  <content>Lmap Quartier Rivoli blanc</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B390B3C3-D2D4-4A5D-8458-DA02AC7A6F8E</id>
+  <title>Lmap Métro Palais-Royal blanc</title>
+  <title xmlns="urn:iweb:">Lmap Métro Palais-Royal blanc</title>
+  <in-navbar xmlns="urn:iweb:">B390B3C3-D2D4-4A5D-8458-DA02AC7A6F8E</in-navbar>
+  <link rel="alternate" href="Lmap_Metro_Palais-Royal_blanc.html"/>
+  <updated>2013-06-17T16:42:54.004+02:00</updated>
+  <content>Lmap Métro Palais-Royal blanc</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F9399A47-C2AB-4D11-BF54-FA076EADDFCD</id>
+  <title>Lmap Métro Pont-neuf blanc</title>
+  <title xmlns="urn:iweb:">Lmap Métro Pont-neuf blanc</title>
+  <in-navbar xmlns="urn:iweb:">F9399A47-C2AB-4D11-BF54-FA076EADDFCD</in-navbar>
+  <link rel="alternate" href="Lmap_Metro_Pont-neuf_blanc.html"/>
+  <updated>2013-06-17T16:42:54.005+02:00</updated>
+  <content>Lmap Métro Pont-neuf blanc</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:79048CB9-D9F8-4E38-BE26-77B796DA08A9</id>
+  <title>Lmap Quartier Réaumur blanc</title>
+  <title xmlns="urn:iweb:">Lmap Quartier Réaumur blanc</title>
+  <in-navbar xmlns="urn:iweb:">79048CB9-D9F8-4E38-BE26-77B796DA08A9</in-navbar>
+  <link rel="alternate" href="Lmap_Quartier_Reaumur_blanc.html"/>
+  <updated>2013-06-17T16:42:54.006+02:00</updated>
+  <content>Lmap Quartier Réaumur blanc</content>
+ </entry>
+</feed>
